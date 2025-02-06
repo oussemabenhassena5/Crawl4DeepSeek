@@ -1,8 +1,8 @@
 # 🕸️ Deep Seek Crawler
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/)
-[![Crawl4AI](https://img.shields.io/badge/Framework-Crawl4AI-orange.svg)](https://github.com/oussemabenhassena5/Crawl4DeepSeek)
-[![DeepSeek](https://img.shields.io/badge/AI-DeepSeek-green.svg)](https://github.com/oussemabenhassena5/Crawl4DeepSeek)
+[![Crawl4AI](https://img.shields.io/badge/Framework-Crawl4AI-orange.svg)](https://docs.crawl4ai.com/)
+[![DeepSeek](https://img.shields.io/badge/AI-DeepSeek-green.svg)](https://github.com/deepseek-ai/DeepSeek-V3?tab=readme-ov-file)
 [![MIT License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > *Unleashing AI-Powered Web Scraping at Scale* 🚀
