@@ -1,4 +1,4 @@
-# 🕸️ Deep Seek Crawler
+# 🕸️ DeepSeek Crawler
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![Crawl4AI](https://img.shields.io/badge/Framework-Crawl4AI-orange.svg)](https://docs.crawl4ai.com/)
